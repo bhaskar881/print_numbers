@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Bhaskar Prasad's Personal Webpage</title>
+    <style>
+        body {
+            background-color: lightblue;
+            font-family: Arial, sans-serif;
+            text-align: center;
+        }
+        h1 {
+            color: blue;
+        }
+        p {
+            color: pink;
+        }
+    </style>
+</head>
+<body>
+    <h1>Welcome to Bhaskar Prasad's Personal Webpage</h1>
+    <p>
+        Hi, I'm Bhaskar Prasad, and I'm from Ramachandrapuram, Andhra Pradesh. I completed my B.Tech at Kakinada Institute of Engineering and Technology in Kakinada.
+    </p>
+    <p>
+        I love the colors blue, pink, and yellow.
+    </p>
+</body>
+</html>
